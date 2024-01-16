@@ -1,0 +1,22 @@
+{
+  "name": "dockerized-node-app",
+  "version": "1.0.0",
+  "description": "A Node.js application Dockerized",
+  "main": "application.js",
+  "scripts": {
+    "test": "node application.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inessaadi/docker-nodejs.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "saadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inessaadi/docker-nodejs/issues"
+  },
+  "homepage": "https://github.com/Inessaadi/docker-nodejs#readme"
+}

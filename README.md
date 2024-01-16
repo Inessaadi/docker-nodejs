@@ -1,2 +1,2 @@
 # docker-nodejs
-Il s'agit également de dockeriser l'application node.js.
+Il s'agit de dockeriser l'application node.js.
